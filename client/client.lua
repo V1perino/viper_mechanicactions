@@ -13,7 +13,7 @@ local options = {
       event = 'mechanic_menu',
       icon = 'fa-solid fa-wrench',
       label = 'Mechanické menu',
-      groups = {["lsc"] = 0,["bennys"] = 0,["underground"] = 0,["libertywalk"] = 0}
+      groups = {["lsc"] = 0,["bennys"] = 0,["underground"] = 0,["libertywalk"] = 0},
       distance = 1,
   } 
 }
